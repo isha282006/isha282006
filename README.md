@@ -36,5 +36,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add Your LinkedIn Link
-- Portfolio: Add Your Portfolio Link
+- LinkedIn: www.linkedin.com/in/isha-vishnoi-a66173350
+- Portfolio: https://portfolio-isha-mu.vercel.app/
