@@ -50,6 +50,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=isha282006&theme=tokyonight)
 
+
 ---
 
 ## 🎯 2026 Goals
@@ -63,6 +64,7 @@
 ✔ Get Software Development Internship
 
 ✔ Strengthen AI/ML Skills
+
 
 ---
 
